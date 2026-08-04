@@ -1,3 +1,6 @@
+---
+work in progress (unstable)
+---
 ## 🎮 Wii‑Style UI Theme for LightDM
 
 This document describes a **Wii‑style LightDM theme concept**, designed to be simple to implement and visually close to the original Wii interface.
